@@ -1,4 +1,4 @@
-# Quant-trading
+# Algorithmic Trading With Machine Learning In Python
 
 &nbsp;
 
